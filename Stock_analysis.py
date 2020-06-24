@@ -4,7 +4,7 @@ Created on Tue Mar 31 07:20:39 2020
 
 @author: andre
 """
-
+# testing this on Github vs network drive
 # https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7
 
 #had to get latest verion of datareader
